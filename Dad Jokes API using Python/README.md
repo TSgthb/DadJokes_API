@@ -5,4 +5,4 @@ Uses modules **requests**, **termcolor**, **pyfiglet** and **random**.
 
 Here is a dad joke for you **;)**
 
-![samplejoke](https://github.com/TSgthb/DadJokes_API/blob/main/DadJoke.png)
+![samplejoke](https://github.com/TSgthb/Miscellaneous/blob/main/Dad%20Jokes%20API%20using%20Python/Images/DadJoke.png)
